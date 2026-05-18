@@ -1,0 +1,13 @@
+.box {
+    background-color: khaki ;
+    border: 2px;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    color:darkblue
+}
+.read-more:hover {
+  background-color: green;
+  color: white;
+}
